@@ -1,0 +1,19 @@
+{
+    "name": "Unity.Game.Codes",
+    "rootNamespace": "Game",
+    "references": [
+        "GUID:efc2ca0b51ad54047b25b5c2eb4c19a1",
+        "GUID:9ef2053bcf13a254ab3940a767f7b1a5",
+        "GUID:6e17cd4649ea94c0cb18f30a60b9b4b4",
+        "GUID:1aa3e8589868c80499255710874679c0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
